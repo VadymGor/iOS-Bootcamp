@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		180D6161246980B600B30D8D /* SimpleSound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180D6160246980B600B30D8D /* SimpleSound.swift */; };
+		180D6165246986E600B30D8D /* meow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 180D61622469821800B30D8D /* meow.m4a */; };
+		180D6166246986E900B30D8D /* moo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 180D61642469821900B30D8D /* moo.m4a */; };
+		180D6167246986EB00B30D8D /* woof.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 180D61632469821800B30D8D /* woof.m4a */; };
 		18B619C82467D8D300F7D16E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B619C72467D8D300F7D16E /* AppDelegate.swift */; };
 		18B619CA2467D8D300F7D16E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B619C92467D8D300F7D16E /* SceneDelegate.swift */; };
 		18B619CC2467D8D300F7D16E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B619CB2467D8D300F7D16E /* ViewController.swift */; };
@@ -16,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		180D6160246980B600B30D8D /* SimpleSound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleSound.swift; sourceTree = "<group>"; };
+		180D61622469821800B30D8D /* meow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = meow.m4a; sourceTree = "<group>"; };
+		180D61632469821800B30D8D /* woof.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = woof.m4a; sourceTree = "<group>"; };
+		180D61642469821900B30D8D /* moo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = moo.m4a; sourceTree = "<group>"; };
 		18B619C42467D8D300F7D16E /* AnimalSounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimalSounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18B619C72467D8D300F7D16E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18B619C92467D8D300F7D16E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +67,10 @@
 				18B619C72467D8D300F7D16E /* AppDelegate.swift */,
 				18B619C92467D8D300F7D16E /* SceneDelegate.swift */,
 				18B619CB2467D8D300F7D16E /* ViewController.swift */,
+				180D6160246980B600B30D8D /* SimpleSound.swift */,
+				180D61622469821800B30D8D /* meow.m4a */,
+				180D61642469821900B30D8D /* moo.m4a */,
+				180D61632469821800B30D8D /* woof.m4a */,
 				18B619CD2467D8D300F7D16E /* Main.storyboard */,
 				18B619D02467D8D800F7D16E /* Assets.xcassets */,
 				18B619D22467D8D800F7D16E /* LaunchScreen.storyboard */,
@@ -125,6 +137,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180D6165246986E600B30D8D /* meow.m4a in Resources */,
+				180D6167246986EB00B30D8D /* woof.m4a in Resources */,
+				180D6166246986E900B30D8D /* moo.m4a in Resources */,
 				18B619D42467D8D800F7D16E /* LaunchScreen.storyboard in Resources */,
 				18B619D12467D8D800F7D16E /* Assets.xcassets in Resources */,
 				18B619CF2467D8D300F7D16E /* Main.storyboard in Resources */,
@@ -141,6 +156,7 @@
 				18B619CC2467D8D300F7D16E /* ViewController.swift in Sources */,
 				18B619C82467D8D300F7D16E /* AppDelegate.swift in Sources */,
 				18B619CA2467D8D300F7D16E /* SceneDelegate.swift in Sources */,
+				180D6161246980B600B30D8D /* SimpleSound.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
