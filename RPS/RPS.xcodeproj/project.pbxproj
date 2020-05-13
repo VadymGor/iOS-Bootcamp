@@ -15,6 +15,7 @@
 		1840E3EB246A7901009AB56E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1840E3E9246A7901009AB56E /* LaunchScreen.storyboard */; };
 		1840E3F3246A7976009AB56E /* Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1840E3F2246A7976009AB56E /* Sign.swift */; };
 		1840E3F5246A7BFB009AB56E /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1840E3F4246A7BFB009AB56E /* GameState.swift */; };
+		1895BF06246AE3BE00DD06EA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1895BF05246AE3BE00DD06EA /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1840E3EC246A7901009AB56E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1840E3F2246A7976009AB56E /* Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
 		1840E3F4246A7BFB009AB56E /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
+		1895BF05246AE3BE00DD06EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		1840E3D2246A78FD009AB56E = {
 			isa = PBXGroup;
 			children = (
+				1895BF05246AE3BE00DD06EA /* README.md */,
 				1840E3DD246A78FD009AB56E /* RPS */,
 				1840E3DC246A78FD009AB56E /* Products */,
 			);
@@ -133,6 +136,7 @@
 			files = (
 				1840E3EB246A7901009AB56E /* LaunchScreen.storyboard in Resources */,
 				1840E3E8246A7901009AB56E /* Assets.xcassets in Resources */,
+				1895BF06246AE3BE00DD06EA /* README.md in Resources */,
 				1840E3E6246A78FD009AB56E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
