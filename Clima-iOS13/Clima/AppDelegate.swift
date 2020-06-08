@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Vadym Horovyi on 18/05/2020.
-//  Copyright © 2020 Vadym Horovyi. All rights reserved.
+//  Copyright © 2020 App Brewery. All rights reserved.
 //
 
 import UIKit
